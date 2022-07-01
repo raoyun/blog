@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '质量保障之道'
-copyright = '2022, 潜玔'
-author = '潜玔'
+project = '测试修炼之路'
+copyright = '2022, QA_RY'
+author = 'RY'
 
 # The full version, including alpha/beta/rc tags
 release = 'latest'
