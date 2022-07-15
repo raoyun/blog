@@ -8,7 +8,7 @@
     
 2. 此时在运行会产生报错`ModuleNotFoundError：No module named ‘pyHook’`，去官网下载一个PyHook，我使用的是3.8版本python只能使用pywinhook，[下载地址](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pywinhook)（32位还是64位参照自己的系统）
     
-    [https://git.poker/raoyun/photo/blob/master/20220714/Untitled-1.6e6cpkekh580.webp?raw=true](https://git.poker/raoyun/photo/blob/master/20220714/Untitled-1.6e6cpkekh580.webp?raw=true)
+    ![](https://git.poker/raoyun/photo/blob/master/20220714/Untitled-1.6e6cpkekh580.webp?raw=true)
     
 3. 下载后的包，使用pip进行安装
     
