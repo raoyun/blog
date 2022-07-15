@@ -12,11 +12,11 @@
     
 3. 下载后的包，使用pip进行安装
     
-    [https://git.poker/raoyun/photo/blob/master/20220714/Untitled-2.4c2o1gn5s3a0.webp?raw=true](https://git.poker/raoyun/photo/blob/master/20220714/Untitled-2.4c2o1gn5s3a0.webp?raw=true)
+    ![](https://git.poker/raoyun/photo/blob/master/20220714/Untitled-2.4c2o1gn5s3a0.webp?raw=true)
     
 4. 安装成功后，再编辑python安装目录下lib\site-packages\pymouse\[windows.py](http://windows.py/)"修改第23行
     
-    [https://git.poker/raoyun/photo/blob/master/20220714/Untitled-3.53dmtlirk9k0.webp?raw=true](https://git.poker/raoyun/photo/blob/master/20220714/Untitled-3.53dmtlirk9k0.webp?raw=true)
+    ![](https://git.poker/raoyun/photo/blob/master/20220714/Untitled-3.53dmtlirk9k0.webp?raw=true)
     
 5. 测试一下环境是否成功
     
